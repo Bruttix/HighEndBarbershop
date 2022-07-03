@@ -1,0 +1,9 @@
+const GLOWTWO_TOGGLE_RESET = "GLOWTWO_TOGGLE_RESET";
+
+const ACTION_GLOWTWO_TOGGLE_RESET = () => {
+  return {
+    type: GLOWTWO_TOGGLE_RESET
+  };
+};
+
+export default ACTION_GLOWTWO_TOGGLE_RESET;
