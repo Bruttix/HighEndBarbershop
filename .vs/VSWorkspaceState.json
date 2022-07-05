@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Client\\src\\components",
-    "\\Client\\src\\components\\payment_info",
-    "\\Client\\src\\reducers",
-    "\\Client\\src\\reducers\\InCart",
-    "\\Client\\src\\reducers\\Treatments"
+    ""
   ],
-  "SelectedNode": "\\.git",
+  "SelectedNode": "\\index.js",
   "PreviewInSolutionExplorer": false
 }
