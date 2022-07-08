@@ -4,8 +4,8 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "engines": {"node" : "16.x"},
   "dependencies": {
-    "NODE": "^16.x",
     "@apollo/react-hooks": "^4.0.0",
     "@emotion/css": "^11.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
